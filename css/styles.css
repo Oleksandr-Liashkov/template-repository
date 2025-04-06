@@ -40,6 +40,11 @@ button {
   cursor: pointer;
 }
 
+/* .container {max-width: ----px;
+  padding: 0 --px;
+  margin: 0 auto;
+} */
+
 /* .backdrop {
   position: fixed;
   top: 0;
